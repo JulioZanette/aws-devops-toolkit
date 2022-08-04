@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/inspectionProfiles/profiles_settings.xml
+/.gitignore
+/aws-devops-toolkit.iml
+/misc.xml
+/modules.xml
+/vcs.xml
