@@ -1,7 +1,7 @@
 # AWS DevOps Tooling
 
 ---
-A quickstart Docker Container for DevOps on the AWS Cloud.
+A quickstart Docker Container for DevOps on AWS.
 
 **Base Image:** 
 - alpine:latest
